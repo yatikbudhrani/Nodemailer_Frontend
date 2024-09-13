@@ -1,0 +1,15 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2rem;
+  height: 100vh;
+  width: 100vw;
+  color: #333;
+}
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
